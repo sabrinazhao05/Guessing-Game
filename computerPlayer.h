@@ -22,4 +22,4 @@ public:
     void wrongGuess(int guess, int answer) override;
 };
 
-#endif // COMPUTERPLAYER_H
+#endif
