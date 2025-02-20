@@ -12,4 +12,4 @@ public:
     int getGuess() const override;
 };
 
-#endif // HUMANPLAYER_H
+#endif
