@@ -1,11 +1,3 @@
-//File name: driver.cpp
-//Author: Sabrina Zhao
-//Email: szhao74@fordham.edu
-//Description: This code is a number guessing game where two players (either human or computer-controlled) take turns guessing a randomly generated number.
-//The program allows for different configurations of players (0, 1, or 2 human players), and the game continues until one player correctly guesses the number. 
-//After each round, the stats of both players are displayed, and the option to play again is provided. 
-//qThe game involves classes for `Player`, `HumanPlayer`, and `ComputerPlayer`, which handle various aspects of player interactions, including making guesses and recording wins or losses.
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
